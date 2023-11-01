@@ -56,4 +56,4 @@ python main.py
 
 ## API
 
-文档请参考[此处](./docs/API.md)
+文档请参考[此处](./docs/api.md)
